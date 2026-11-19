@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://engenheiromecanicorj.com.br/</loc>
-    <lastmod>2025-06-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://engenheiromecanicorj.com.br/</loc></url>
+  <url><loc>https://engenheiromecanicorj.com.br/servicos/pmoc/</loc></url>
+  <url><loc>https://engenheiromecanicorj.com.br/servicos/responsabilidade-tecnica/</loc></url>
+  <url><loc>https://engenheiromecanicorj.com.br/servicos/laudos-tecnicos/</loc></url>
+  <url><loc>https://engenheiromecanicorj.com.br/servicos/nr12/</loc></url>
+  <url><loc>https://engenheiromecanicorj.com.br/servicos/projetos-climatizacao/</loc></url>
+  <url><loc>https://engenheiromecanicorj.com.br/servicos/exaustao-ventilacao/</loc></url>
+  <url><loc>https://engenheiromecanicorj.com.br/servicos/consultoria-licitacoes/</loc></url>
 </urlset>
