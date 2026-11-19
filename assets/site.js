@@ -1,0 +1,1 @@
+document.querySelector('.hamburger')?.addEventListener('click',function(){const menu=document.querySelector('.menu');if(!menu)return;const opened=menu.classList.toggle('open');this.setAttribute('aria-expanded',String(opened));});
